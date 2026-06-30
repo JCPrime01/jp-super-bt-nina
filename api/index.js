@@ -28,7 +28,9 @@
 
     const shareCode = '&shareCode=QY3MR187GKA'
     
-    const afp = '&afp=ni'
+    const afp = '&afp=boost'
+
+    const source = '&utm_medium=ni'
     
     const source = '&home=1'
 
